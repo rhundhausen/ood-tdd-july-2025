@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Add Player Class (Name, Cash)&#xD;&#xA;Add Property Class (Name, Price, Owner)">
+    <Position X="1.633" Y="0.5" Height="0.75" Width="2.067" />
+  </Comment>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
