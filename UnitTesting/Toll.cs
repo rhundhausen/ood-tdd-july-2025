@@ -4,9 +4,14 @@
   {
     public decimal CalculateToll(string membershipLevel, string rateLevel, string tollPassed)
     {
+      
+      if (rateLevel == "") { throw new ArgumentException("Rate level cannot be empty."); }
+
       if (rateLevel == "Peak")
       {
         if (membershipLevel == "Silver" && tollPassed == "SPRNG-CRK")
+          return 6m;
+        if (membershipLevel == "Bronze" && tollPassed == "SPRNG-CRK")
           return 6m;
         if (membershipLevel == "None" && tollPassed == "SPRNG-CRK")
           return 10m;

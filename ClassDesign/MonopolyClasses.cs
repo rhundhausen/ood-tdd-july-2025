@@ -52,6 +52,12 @@
     }
   }
 
+  public class SuperTaxSpace : TaxSpace
+  {
+    public override void LandOn()
+    {
+    }
+  }
   public class Jail : Space
   {
     public override void LandOn()

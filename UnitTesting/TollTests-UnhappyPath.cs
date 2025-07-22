@@ -32,10 +32,10 @@
 
 //    // 3. Empty Rate Level
 //    [TestMethod]
-//    [ExpectedException(typeof(ArgumentException))]
 //    public void CalculateToll_EmptyRateLevel_ThrowsArgumentException()
 //    {
-//      calculator.CalculateToll("None", "", "SPRNG-CRK");
+//      Assert.ThrowsException<ArgumentException>(() => 
+//        calculator.CalculateToll("None", "", "SPRNG-CRK"));
 //    }
 
 //    // 4. Unknown Toll Name

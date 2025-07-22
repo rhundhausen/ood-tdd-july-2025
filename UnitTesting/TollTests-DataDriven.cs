@@ -3,7 +3,8 @@
   [TestClass]
   public class TollTestsDataDriven
   {
-    // Can also use [DynamicData] (with a method or property source) or [DataSource] (for legacy, external sources)
+    // Can also use [DynamicData] (with a method or property source)
+    // [DataSource] (for legacy, external sources)
 
     [DataTestMethod]
     [DataRow("None", "Normal", "SPRNG-CRK", 6.0)]

@@ -1,9 +1,7 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-
-namespace UnitTesting
+﻿namespace UnitTesting
 {
   [TestClass]
-  public class TollTests
+  public class TollTests_Happy
   {
     [TestMethod]
     public void CalculateToll_None_Normal_SpringCreek_Returns6()

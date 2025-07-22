@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDD-Style", "BDD-Style\BDD-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reqnroll", "Reqnroll\Reqnroll.csproj", "{91DD45D8-2801-4E7D-A6C4-7D65217C733A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{212B34DC-9AB4-4333-A6EE-406E00CB3CF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalDebt", "TechnicalDebt\TechnicalDebt.csproj", "{775E4837-C1F0-4B39-BF22-52564D979A4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{91DD45D8-2801-4E7D-A6C4-7D65217C733A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91DD45D8-2801-4E7D-A6C4-7D65217C733A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91DD45D8-2801-4E7D-A6C4-7D65217C733A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212B34DC-9AB4-4333-A6EE-406E00CB3CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212B34DC-9AB4-4333-A6EE-406E00CB3CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212B34DC-9AB4-4333-A6EE-406E00CB3CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212B34DC-9AB4-4333-A6EE-406E00CB3CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775E4837-C1F0-4B39-BF22-52564D979A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775E4837-C1F0-4B39-BF22-52564D979A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775E4837-C1F0-4B39-BF22-52564D979A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775E4837-C1F0-4B39-BF22-52564D979A4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
