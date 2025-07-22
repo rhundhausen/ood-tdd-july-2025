@@ -4,15 +4,15 @@
   public class RentTests
   {
     [TestMethod]
-    public void CalculateRent_ReturnsBaseRent_ForBoardwalk()
+    public void BaseBoardwalk_UserLands_UserCharged50()
     {
-      // Arrange
+      // Given
       var property = new Property(name: "Boardwalk", baseRent: 50);
 
-      // Act
+      // When
       int rent = property.CalculateRent();
 
-      // Assert
+      // Then
       Assert.AreEqual(50, rent);
     }
   }

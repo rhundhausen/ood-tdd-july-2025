@@ -36,5 +36,18 @@
       int rent = property.CalculateRent();
       Assert.AreEqual(600, rent); // 1 house on Boardwalk
     }
+
+    [TestMethod]
+    public void CalculateRent_Returns_2000_forBoardwalk_WithOneHotel()
+    {
+      Assert.Inconclusive();
+    }
+
+    [TestMethod]
+    public void CalculateRent_Returns_Bankruptcy_forBoardwalk_WithTenHotels()
+    {
+      Assert.Inconclusive();
+    }
+
   }
 }
