@@ -1,0 +1,11 @@
+Resources - Azure, VS subs, people, subscriptions, tools, training
+
+Activities - design, test, code, pipelines, support, operations
+
+Output - wrote some code, passed some tests, deployed to prod!!
+
+:-)
+
+Outcomes - value delivered, make $, save $, new customers, new sales
+
+Impacts - bottom line, shareholders happy, devs want to work here
