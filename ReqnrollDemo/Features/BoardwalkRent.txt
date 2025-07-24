@@ -1,0 +1,15 @@
+﻿@monopoly
+Scenario: Charge rent for landing on Boardwalk with zero houses
+  Given the property is "Boardwalk"
+  And the number of houses on the property is 0
+  And a player lands on the property
+  When rent is calculated
+  Then the rent charged should be $50
+
+@monopoly
+Scenario: Charge rent for landing on Boardwalk with four houses
+  Given the property is "Boardwalk"
+  And the number of houses on the property is 4
+  And a player lands on the property
+  When rent is calculated
+  Then the rent charged should be $1700

@@ -1,5 +1,7 @@
 Bookmarks
 
+https://www.surveymonkey.com/r/improving-training
+
 https://github.com/rhundhausen/monopoly
 https://github.com/rhundhausen/ood-tdd-july-2025
 

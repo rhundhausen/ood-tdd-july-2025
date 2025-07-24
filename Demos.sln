@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalDebt", "TechnicalD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{2341BE1B-ED39-43FB-995B-A585D18A76EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doubles", "Doubles\Doubles.csproj", "{D4B8D059-FA7D-4182-A39C-F6AADA274B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReqnrollDemo", "ReqnrollDemo\ReqnrollDemo.csproj", "{3EF72F78-0C68-4A78-B63C-C738DA0440B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{2341BE1B-ED39-43FB-995B-A585D18A76EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2341BE1B-ED39-43FB-995B-A585D18A76EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2341BE1B-ED39-43FB-995B-A585D18A76EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B8D059-FA7D-4182-A39C-F6AADA274B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B8D059-FA7D-4182-A39C-F6AADA274B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B8D059-FA7D-4182-A39C-F6AADA274B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B8D059-FA7D-4182-A39C-F6AADA274B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EF72F78-0C68-4A78-B63C-C738DA0440B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF72F78-0C68-4A78-B63C-C738DA0440B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF72F78-0C68-4A78-B63C-C738DA0440B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF72F78-0C68-4A78-B63C-C738DA0440B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
