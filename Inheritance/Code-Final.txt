@@ -1,0 +1,27 @@
+﻿namespace Inheritance
+{
+  public class GameComponent
+  {
+    public string? Name { get; set; }
+  }
+  public class GamePiece : GameComponent
+  {
+    public int Position { get; set; }
+  }
+
+  public class BoardSpace : GameComponent 
+  {
+    public int Position { get; set; }
+  }
+
+  public class Dice : GameComponent
+  {
+    
+  }
+  public class Property : BoardSpace
+  {
+    public int Price { get; set; }
+    public int Rent { get; set; }
+    public string? ColorGroup { get; set; }
+  }
+}

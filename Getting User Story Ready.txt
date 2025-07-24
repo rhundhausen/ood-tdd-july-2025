@@ -1,0 +1,40 @@
+Getting an item ready (Definition of Ready)
+
+1. Add a title
+   "Draw Chance card"
+
+2. Add description
+   "As a player,
+    I want to draw a Chance card when I land on Chance,
+    So that I might be able to make some money"
+
+3. PO to approve it (or at least not hate it)
+4. Add a Business Value (some range)
+   100, 200, 300, *500*, 800, 1300, 2100
+
+5. Add Acceptance Criteria (bullets, Given-When-Then, example data)
+   * Chance card is triggered automatically
+   * Card action is carried out immediately
+   * Deck maintains proper order and reuse
+   * Deck is shuffled when recycled
+
+>> Enter the Developers, along with the PO and any stakeholders, at PB Refinement
+
+6. Talk dependencies, solutions, tooling, testing, AI, etc.
+
+7. Size the item and are in (general) consensus on a size
+   8
+
+8. Is it less/equal to our working agreement size? 13 or less
+
+9. READY
+
+
+
+
+
+
+
+
+
+

@@ -18,3 +18,10 @@ https://learn.microsoft.com/en-us/azure/devops/pipelines/test/test-impact-analys
 
 https://marketplace.visualstudio.com/items?itemName=keesschollaart.sprint-goal
 
+https://en.wikipedia.org/wiki/INVEST_(mnemonic)
+
+https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652
+
+
+
+
