@@ -12,13 +12,13 @@ Getting an item ready (Definition of Ready)
 4. Add a Business Value (some range)
    100, 200, 300, *500*, 800, 1300, 2100
 
+>> Enter the Developers, along with the PO and any stakeholders, at PB Refinement
+
 5. Add Acceptance Criteria (bullets, Given-When-Then, example data)
    * Chance card is triggered automatically
    * Card action is carried out immediately
    * Deck maintains proper order and reuse
    * Deck is shuffled when recycled
-
->> Enter the Developers, along with the PO and any stakeholders, at PB Refinement
 
 6. Talk dependencies, solutions, tooling, testing, AI, etc.
 

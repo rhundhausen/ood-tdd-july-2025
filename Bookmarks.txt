@@ -9,6 +9,8 @@ https://www.sonarsource.com
 https://sonarcloud.io/project
 https://learn.microsoft.com/en-us/visualstudio/code-quality/code-metrics-values
 
+https://martinfowler.com/bliki/StranglerFigApplication.html
+
 https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890
 
 https://www.ncrunch.net
@@ -23,6 +25,18 @@ https://marketplace.visualstudio.com/items?itemName=keesschollaart.sprint-goal
 https://en.wikipedia.org/wiki/INVEST_(mnemonic)
 
 https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652
+
+https://marketplace.visualstudio.com/items?itemName=ms.vss-exploratorytesting-web#supportedbrowsers
+
+https://oracleofbacon.org
+
+https://github.com/devlooped/moq
+
+https://reqnroll.net/
+
+https://learn.microsoft.com/en-us/visualstudio/test/intellitest-manual
+
+
 
 
 
